@@ -1,3 +1,2 @@
 # go-playground
---------------------
-My go sandbox.
+My go sandbox for learning Golang.
