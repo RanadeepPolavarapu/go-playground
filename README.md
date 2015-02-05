@@ -4,7 +4,7 @@ My sandbox for Go web service to transition from Node.js into Golang entirely.
 # TODO
 * Seek alternatives for Go's `Martini`.
 * Seek `rails` like `asset pipeline` or `django compressor` for Go.
-* Ensure Go Response headers are set properly to ensure `content_type` is correct. Current content type is `text/plain` whereas, npm Express uses default `text/html`.
+* Ensure Go Response headers are set properly to ensure `content_type` is correct. Current content type is `text/plain` whereas, Node.js Express uses default `text/html`.
 
 
 # Deadlines
