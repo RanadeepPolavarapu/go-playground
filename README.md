@@ -1,2 +1,2 @@
 # go-playground
-My go sandbox for learning Golang.
+My sandbox for Go web service to transition from Node.js into Golang entirely.
