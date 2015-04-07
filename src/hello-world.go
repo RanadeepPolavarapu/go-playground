@@ -1,9 +1,9 @@
+// Our first program will print the classic "hello world"
+// message. Here's the full source code.
 package main
 
 import "fmt"
 
 func main() {
-	fmt.Println("Hello, 世界 UTF-8 Support")
+    fmt.Println("hello world")
 }
-
-// Temp placeholder file
